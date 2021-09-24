@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AdditionalListLab", "AdditionalListLab\AdditionalListLab.pyproj", "{58EC579C-57F7-43A8-BD7D-C1F6A1330E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EC579C-57F7-43A8-BD7D-C1F6A1330E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EC579C-57F7-43A8-BD7D-C1F6A1330E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66570EB4-45E0-4684-88F2-779D71AF0725}
+	EndGlobalSection
+EndGlobal
